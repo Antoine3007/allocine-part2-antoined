@@ -1,0 +1,5 @@
+.nav {
+  display: flex;
+  justify-content: left;
+  padding: 10px 70px;
+}
